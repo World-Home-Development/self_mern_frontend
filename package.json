@@ -1,7 +1,7 @@
 {
   "name": "for_state",
   "version": "0.1.0",
-  "proxy": "http://localhost:5000",
+  "proxy": "http://54.198.98.139:5000",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
